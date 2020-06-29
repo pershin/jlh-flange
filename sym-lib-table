@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name JLH-Flange-Library)(type Legacy)(uri ${KIPRJMOD}/JLH-Flange-Library.lib)(options "")(descr ""))
+)
